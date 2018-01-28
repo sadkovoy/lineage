@@ -1,18 +1,18 @@
-**Linege - changelog generator for GitLab-based repos**
+**Linege**
 
 
-USAGE:
+Usage:
 ```
     lineage --host <GITLAB_HOST> --project <PROJECT_NAME> --tag <TAG> --token <PERSONAL_ACCESS_TOKEN>
 ```
 
-FLAGS:
+Flags:
 ```
          --help       Prints help information
     -V, --version    Prints version information
 ```
 
-OPTIONS:
+Options:
 ```
     -h, --host <GITLAB_HOST>               Target gitlab host
     -p, --project <PROJECT_NAME>           Your project name
