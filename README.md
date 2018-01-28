@@ -1,4 +1,4 @@
-**Linege**
+**Lineage**
 
 
 Usage:
